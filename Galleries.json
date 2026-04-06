@@ -1,0 +1,42 @@
+{
+    "S8NpWBYMFH": {
+        "name": "no-longer-a-heroine-001.id",
+        "secret": "3XDoHpBqNj8QFnKi",
+        "images": [
+            {
+                "id": "W8cMYVn6",
+                "slug": "W8cMYVn6",
+                "name": "ch1_page_001_0ywd6.png",
+                "name_html_escaped": "ch1_page_001_0ywd6.png",
+                "created_at": "2026-04-06T12:57:58.009Z",
+                "created_at_human": "April 06, 2026 12:57",
+                "updated_at": "2026-04-06T12:58:00.075Z",
+                "gallery_id": "S8NpWBYMFH",
+                "url": "https://imgbox.com/W8cMYVn6",
+                "original_url": "https://images2.imgbox.com/a3/3c/W8cMYVn6_o.png",
+                "thumbnail_url": "https://thumbs2.imgbox.com/a3/3c/W8cMYVn6_t.png",
+                "square_url": "https://thumbs2.imgbox.com/a3/3c/W8cMYVn6_b.png",
+                "selected": false,
+                "comments_enabled": 0,
+                "comments_count": 0
+            },
+            {
+                "id": "7rzJGcG3",
+                "slug": "7rzJGcG3",
+                "name": "ch1_page_002_sukq7.jpg",
+                "name_html_escaped": "ch1_page_002_sukq7.jpg",
+                "created_at": "2026-04-06T12:59:05.686Z",
+                "created_at_human": "April 06, 2026 12:59",
+                "updated_at": "2026-04-06T12:59:08.368Z",
+                "gallery_id": "S8NpWBYMFH",
+                "url": "https://imgbox.com/7rzJGcG3",
+                "original_url": "https://images2.imgbox.com/65/d2/7rzJGcG3_o.jpg",
+                "thumbnail_url": "https://thumbs2.imgbox.com/65/d2/7rzJGcG3_t.jpg",
+                "square_url": "https://thumbs2.imgbox.com/65/d2/7rzJGcG3_b.jpg",
+                "selected": false,
+                "comments_enabled": 0,
+                "comments_count": 0
+            }
+        ]
+    }
+}
